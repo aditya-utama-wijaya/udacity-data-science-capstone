@@ -6,7 +6,7 @@ This repository contains an analysis of simulated Starbucks customer data to und
   - `portfolio.json`: Contains offer ids and meta data about each offer.
   - `profile.json`: Contains demographic data for each customer.
   - `transcript.json`: Contains records for transactions, offers received, viewed, and completed.
-- `Starbucks_Customer_Behavior_Analysis.ipynb`: Jupyter notebook containing the analysis, data preprocessing, and modeling.
+- `Starbucks_Capstone_notebook.ipynb`: Jupyter notebook containing the analysis, data preprocessing, and modeling.
 
 ## Libraries Used
 The following python libraries were used in this project.
